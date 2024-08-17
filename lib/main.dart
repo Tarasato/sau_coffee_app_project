@@ -12,7 +12,7 @@ void main() {
     //call main widget MaterialApp()
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ReceiptOrderUI(), //เรียกหน้าจอแรกของแอป
+      home: SplashScreenUI(), //เรียกหน้าจอแรกของแอป
     ),
   );
 }
